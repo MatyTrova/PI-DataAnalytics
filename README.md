@@ -30,6 +30,8 @@ Este proyecto ofrece una oportunidad para profundizar en el comportamiento de lo
 
 + script_bi.py: Script de python que contiene la carga de los datasets y algunas transformaciones que serán implementadas en power bi.
 
++ Reporte de análisis.md: Archivo MD que contiene de forma detallada el análisis realizado en el dashboard.
+
 + Dashboard PI.pbix: Es el dashboard realizado en Power BI
 
 ## `Dashboard` 
