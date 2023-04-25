@@ -1,38 +1,24 @@
 
-<html>
-  <head>
-    <meta charset="utf-8">
-  </head>
-  <body>
-    <h1 style="text-align: center;">Proyecto Data Analytics</h1>
-    <div style="text-align:center">
-      <img src="https://raw.githubusercontent.com/MatyTrova/PI-MLOps/main/imgs/mlops.png" alt="MLOps">
-    </div>
-  </body>
-</html>
+# <h1 align=center> **Proyecto: Data Analytics** </h1>
+                                            
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/MatyTrova/PI-DataAnalytics/main/imgs/telecomunicaciones%201.png"  height=300>
+</p>
 
 --- 
 ## `Descripción`
 
-Este proyecto tiene como objetivo desarrollar el rol de `Data Scientist`, aplicando técnicas de extracción, transformación y carga de datos (`ETL`), análisis exploratorio de datos (`EDA`) y creación de un sistema de recomendación basado en machine learning.
+Este proyecto tiene como objetivo desarrollar el rol de Data Analyst, en un contexto donde una empresa prestadora de servicios de telecomunicaciones en Argentina nos encarga realizar un análisis completo que permita reconocer el comportamiento de este sector a nivel nacional. 
 
-Para ello, se utilizará un set de datos de plataformas de streaming como Amazon, Disney, Hulu y Netflix, con el fin de explorar y entender los patrones y tendencias en el comportamiento de los usuarios, y así generar recomendaciones personalizadas.
+La principal actividad de la empresa es brindar acceso a internet, aunque también se tendrán en cuenta los demás servicios para el análisis.
 
-El proyecto abarca desde la extracción de los datos, hasta la implementación del sistema de recomendación, con el objetivo de brindar una solución completa y funcional. Asimismo, se documentará cada etapa del proceso y se explicarán las decisiones tomadas en la implementación del modelo de `machine learning`.
+Para ello, utilizaremos los conjuntos de datos proporcionados por la página https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/, que se extraerán mediante el uso de una API y CSV.
 
-Finalmente, se desplegará el proyecto como una `API` virtual en la plataforma de la nube de Render, lo que permitirá el acceso a los resultados desde cualquier lugar y dispositivo.
+El proyecto abarcará desde la exploración en profundidad de los datos EDA hasta su posterior presentación en un dashboard en Power BI, utilizando los gráficos y KPIs pertinentes.
 
-Este proyecto es una oportunidad para explorar en profundidad el proceso de desarrollo de un sistema de recomendación y las herramientas utilizadas en el camino, así como para aprender sobre el manejo y análisis de datos en el contexto de las plataformas de streaming, y la implementación de soluciones en la nube.
+Este proyecto ofrece una oportunidad para profundizar en el comportamiento de los servicios de telecomunicaciones en las diferentes provincias de Argentina.
 
-## `API`
-
-A continuación estará el enlace a la respectiva api y su documentación: 
-+ (enlace)
-+ (enlace/documentación)
-
-Además de un video explicativo acerca de esta : 
-
-+ (enlace/video)
 
 ## `Estructura del repositorio`
 
@@ -40,23 +26,46 @@ Además de un video explicativo acerca de esta :
 
 + Datasets: Contiene los data sets utilizados en el proyecto.
 
-+ ETL.ipynb: Notebook de python con el código para realizar la extracción, transformación y carga de datos.
++ EDA.ipynb: Notebook de python con el código para el análisis exploratorio de datos.
 
-+ EDA.ipynb: Notebook de python con el código para el análisis exploratorio de datos, y la implementación del modelo de machine learning.
++ script_bi.py: Script de python que contiene la carga de los datasets y algunas transformaciones que serán implementadas en power bi.
 
-+ Consultas.ipynb: Notebook de python con las funciones para realizar consultas de búsqueda en el set de datos.
++ Dashboard PI.pbix: Es el dashboard realizado en Power BI
 
-+ main.py: Contiene todo el código la formación y correcto funcionamiento de la API
+## `Dashboard` 
 
-+ requirements.txt: archivo con las dependencias y librerías necesarias para ejecutar el proyecto.
+A continuación se adjuntaran imágenes del respectivo dashboard.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/MatyTrova/PI-DataAnalytics/main/imgs/Portada.png"  alt="Analytics">
+</p>
 
 
 
-##### Nota :En la carpeta `Datasets` solo se encontraran los archivos comprimidos ya que el resto es muy pesado. Para acceder a todos los datasets utilizados se puede ingresar al siguiente enlace de drive : https://drive.google.com/drive/folders/1b49OVFJpjPPA1noRBBi1hSmMThXmNzxn
+<p align="center">
+<img src="https://raw.githubusercontent.com/MatyTrova/PI-DataAnalytics/main/imgs/P%C3%A1gina%201.png"  alt="Analytics">
+</p>
 
+
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/MatyTrova/PI-DataAnalytics/main/imgs/P%C3%A1gina%202.png"  alt="Analytics">
+</p>
+
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/MatyTrova/PI-DataAnalytics/main/imgs/P%C3%A1gina%203.png"  alt="Analytics">
+</p>
+
+
+
+##### Nota :Para acceder a todos los datasets utilizados se puede ingresar al siguiente enlace de drive : 
 
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/MatyTrova/PI-MLOps/main/imgs/henry.jpg"  alt="MLOps">
 </p>
+
 
