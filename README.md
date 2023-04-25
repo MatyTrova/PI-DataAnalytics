@@ -69,7 +69,7 @@ Dashboard en el que se analizan los siguientes KPIs :
 + En esta página se realiza un análisis de los ingresos en función del tiempo y se compara con otros servicios.
 
 ---
-##### Nota: Para acceder a todos los datasets utilizados se puede ingresar al siguiente enlace de drive : 
+##### Nota: Para acceder a todos los archivos se puede ingresar al siguiente enlace de drive : 
  https://drive.google.com/drive/folders/1RzZep53wRRGqhVsYDFIGyHYBIo8-21Ed?usp=sharing
 
 
