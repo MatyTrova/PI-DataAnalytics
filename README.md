@@ -4,7 +4,7 @@
     <meta charset="utf-8">
   </head>
   <body>
-    <h1 style="text-align: center;">Proyecto Machine Learning Operations (MLOps)</h1>
+    <h1 style="text-align: center;">Proyecto Data Analytics</h1>
     <div style="text-align:center">
       <img src="https://raw.githubusercontent.com/MatyTrova/PI-MLOps/main/imgs/mlops.png" alt="MLOps">
     </div>
