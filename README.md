@@ -66,7 +66,7 @@ Dashboard en el que se analizan los siguientes KPIs :
 <img src="https://raw.githubusercontent.com/MatyTrova/PI-DataAnalytics/main/imgs/P%C3%A1gina%203.png"  alt="Analytics">
 </p>
 
-+ En esta página se realiza un análisi de los ingresos en función del tiempo y se compara con otros servicios.
++ En esta página se realiza un análisis de los ingresos en función del tiempo y se compara con otros servicios.
 
 ---
 ##### Nota: Para acceder a todos los datasets utilizados se puede ingresar al siguiente enlace de drive : 
@@ -74,7 +74,7 @@ Dashboard en el que se analizan los siguientes KPIs :
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/MatyTrova/PI-MLOps/main/imgs/henry.jpg"  alt="MLOps">
+<img src="https://raw.githubusercontent.com/MatyTrova/PI-MLOps/main/imgs/henry.jpg"  alt="Analytics">
 </p>
 
 
