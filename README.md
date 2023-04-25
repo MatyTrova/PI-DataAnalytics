@@ -40,7 +40,7 @@ A continuación se adjuntaran imágenes del respectivo dashboard.
 <img src="https://raw.githubusercontent.com/MatyTrova/PI-DataAnalytics/main/imgs/Portada.png"  alt="Analytics">
 </p>
 
-
+holiiis
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/MatyTrova/PI-DataAnalytics/main/imgs/P%C3%A1gina%201.png"  alt="Analytics">
@@ -61,7 +61,8 @@ A continuación se adjuntaran imágenes del respectivo dashboard.
 
 
 
-##### Nota :Para acceder a todos los datasets utilizados se puede ingresar al siguiente enlace de drive : 
+##### Nota: Para acceder a todos los datasets utilizados se puede ingresar al siguiente enlace de drive : 
+ https://drive.google.com/drive/folders/1RzZep53wRRGqhVsYDFIGyHYBIo8-21Ed?usp=sharing
 
 
 <p align="center">
