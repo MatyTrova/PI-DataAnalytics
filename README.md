@@ -34,33 +34,41 @@ Este proyecto ofrece una oportunidad para profundizar en el comportamiento de lo
 
 ## `Dashboard` 
 
-A continuación se adjuntaran imágenes del respectivo dashboard.
-
+A continuación se adjuntaran imágenes del respectivo dashboard :
+---
 <p align="center">
 <img src="https://raw.githubusercontent.com/MatyTrova/PI-DataAnalytics/main/imgs/Portada.png"  alt="Analytics">
 </p>
 
-holiiis
++ Portada.
 
+---
 <p align="center">
 <img src="https://raw.githubusercontent.com/MatyTrova/PI-DataAnalytics/main/imgs/P%C3%A1gina%201.png"  alt="Analytics">
 </p>
 
+Dashboard en el que se analizan los siguientes KPIs : 
++ Los accesos cada 100 hogares, previsto en un aumento del 2% para el trimestre posterior.
++ El crecimiento anual de los ingresos en comparación con los años anteriores.
++ Los incresos cada 100 hogares, previsto en un aumento del 5% para el trimestre posterior.
++ La cantidad de localidades sin servicios, previsto a disminuir para el año posterior.
 
 
-
+---
 <p align="center">
 <img src="https://raw.githubusercontent.com/MatyTrova/PI-DataAnalytics/main/imgs/P%C3%A1gina%202.png"  alt="Analytics">
 </p>
 
++ En esta página se realiza un análisis en profundidad de las provincias, viendo sus servicios y velocidades de descarga en función del tiempo.
 
-
+---
 <p align="center">
 <img src="https://raw.githubusercontent.com/MatyTrova/PI-DataAnalytics/main/imgs/P%C3%A1gina%203.png"  alt="Analytics">
 </p>
 
++ En esta página se realiza un análisi de los ingresos en función del tiempo y se compara con otros servicios.
 
-
+---
 ##### Nota: Para acceder a todos los datasets utilizados se puede ingresar al siguiente enlace de drive : 
  https://drive.google.com/drive/folders/1RzZep53wRRGqhVsYDFIGyHYBIo8-21Ed?usp=sharing
 
