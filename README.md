@@ -50,7 +50,7 @@ A continuación se adjuntaran imágenes del respectivo dashboard :
 Dashboard en el que se analizan los siguientes KPIs : 
 + Los accesos cada 100 hogares, previsto en un aumento del 2% para el trimestre posterior.
 + El crecimiento anual de los ingresos en comparación con los años anteriores.
-+ Los incresos cada 100 hogares, previsto en un aumento del 5% para el trimestre posterior.
++ Los ingresos cada 100 hogares, previsto en un aumento del 5% para el trimestre posterior.
 + La cantidad de localidades sin servicios, previsto a disminuir para el año posterior.
 
 
